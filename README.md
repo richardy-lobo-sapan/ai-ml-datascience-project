@@ -23,7 +23,6 @@ This repository is used to document my learning journey and portfolio projects.
 ---
 
 ## About Me
-Bagus untuk recruiter.
 
 Contoh:
 ```md
@@ -31,3 +30,4 @@ Contoh:
 
 Richardy Lobo' Sapan  
 Interested in AI Engineering, Data Science, and AI Product Development.
+https://www.linkedin.com/in/richardylobosapan/
