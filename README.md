@@ -1,33 +1,16 @@
-# ai-ml-datascience-project
+# AI · ML · Data Science Projects
 
-A collection of my AI, Machine Learning, and Data Science projects, covering:
-- Exploratory Data Analysis (EDA)
-- Machine Learning
-- Deep Learning
-- NLP & LLM
-- Data Visualization
-- Automation & Analytics
+A collection of my projects in AI, machine learning, and data engineering.
 
-This repository is used to document my learning journey and portfolio projects.
+## Projects
 
-## Tech Stack
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow / PyTorch
-- Matplotlib / Seaborn
-- SQL
-- Jupyter Notebook
+| Project | Description | Stack |
+|---|---|---|
+| [Olist Analytics — dbt + BigQuery](https://github.com/richardy-lobo-sapan/olist-analytics-dbt) | E-commerce data pipeline modeled into a star schema with staging, intermediate, and mart layers | dbt · BigQuery · SQL |
+| [Fintech Behavioral Segmentation](https://github.com/richardy-lobo-sapan/fintech-behavioral-segmentation) | Customer segmentation on fintech transaction data using clustering to identify behavioral patterns | Python · Scikit-learn · Pandas |
 
----
+## About
 
-## About Me
-
-Contoh:
-```md
-## Author
-
-Richardy Lobo' Sapan  
-Interested in AI Engineering, Data Science, and AI Product Development.
-https://www.linkedin.com/in/richardylobosapan/
+Richardy Lobo' Sapan
+AI Engineer & Data Scientist — Jakarta, Indonesia
+[LinkedIn](https://www.linkedin.com/in/richardylobosapan/)
