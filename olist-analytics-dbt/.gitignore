@@ -1,0 +1,7 @@
+creds.json
+*.json
+dbt-env/
+target/
+dbt_packages/
+logs/
+.env
